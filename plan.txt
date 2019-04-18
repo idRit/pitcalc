@@ -1,0 +1,21 @@
+get:
+    track length,
+    number of corners till pit stop,
+    track temp,
+    pit lane length,
+    average pit stop time,
+    current lap time,
+    current lap time of opponent,
+        calculated delta
+    total laps,
+    current lap
+    
+    tire age,
+    tire temp,
+    tire condition: smooth, grainy or chipping,
+    current stint, 
+
+set:
+    possibility of undercut,
+    next stint selection: 1 stopper, 2 stopper
+    new delta
